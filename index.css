@@ -1,5 +1,13 @@
 :root{
     --primaryBTN: #2ED571;
     --backgroundColor: 192632;
-    
+    --annie-font: "Annie Use Your Telescope", cursive;
+}
+
+.qwerty{
+    font-family: var(--annie-font);
+}
+
+.qwe{
+    background-color: red;
 }
